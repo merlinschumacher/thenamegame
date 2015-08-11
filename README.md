@@ -1,5 +1,5 @@
 #The Name Game#
-A python based twitter bot that does a "Name Game"-style rhyme with names.
+A python based twitter bot that does a ["Name Game"](https://www.youtube.com/watch?v=5MJLi5_dyn0)-style rhyme with names.
 
 ##Requirements##
 Python 3
